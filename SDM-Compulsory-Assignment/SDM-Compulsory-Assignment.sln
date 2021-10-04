@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDM-Compulsory-Assignment.D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDM-Compulsory-Assignment.Infrastructure.Data", "SDM-Compulsory-Assignment.Infrastructure.Data\SDM-Compulsory-Assignment.Infrastructure.Data.csproj", "{5D4F5ACE-4FE7-4823-BF13-8E5F7ED16097}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDM-Compulsory-Assignment.Tests", "SDM-Compulsory-Assignment.Tests\SDM-Compulsory-Assignment.Tests.csproj", "{C4A1FA7F-D37E-491F-93E5-7FD480680FDD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{5D4F5ACE-4FE7-4823-BF13-8E5F7ED16097}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D4F5ACE-4FE7-4823-BF13-8E5F7ED16097}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D4F5ACE-4FE7-4823-BF13-8E5F7ED16097}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4A1FA7F-D37E-491F-93E5-7FD480680FDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4A1FA7F-D37E-491F-93E5-7FD480680FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4A1FA7F-D37E-491F-93E5-7FD480680FDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4A1FA7F-D37E-491F-93E5-7FD480680FDD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

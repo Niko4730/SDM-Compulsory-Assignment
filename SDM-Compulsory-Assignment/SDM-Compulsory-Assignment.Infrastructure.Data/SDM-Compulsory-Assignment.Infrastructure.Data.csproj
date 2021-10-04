@@ -5,4 +5,9 @@
     <RootNamespace>SDM_Compulsory_Assignment.Infrastructure.Data</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\SDM-Compulsory-Assignment.Core.Models\SDM-Compulsory-Assignment.Core.Models.csproj" />
+    <ProjectReference Include="..\SDM-Compulsory-Assignment.Domain\SDM-Compulsory-Assignment.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
